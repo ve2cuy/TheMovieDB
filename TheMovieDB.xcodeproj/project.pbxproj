@@ -47,6 +47,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B54147AE1F9E71C100403FA9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		B54E2F831EF9758B00533BFD = {
 			isa = PBXGroup;
 			children = (
@@ -82,9 +89,9 @@
 		B54E2FA41EF97A4C00533BFD /* Ressources */ = {
 			isa = PBXGroup;
 			children = (
+				B54147AE1F9E71C100403FA9 /* Images */,
 				B54E2FAF1EF9D21D00533BFD /* Contrôleurs */,
 				B54E2FA81EF97BDA00533BFD /* Structures de données */,
-				B54E2FA61EF97ADE00533BFD /* Images */,
 				B54E2FA51EF97A9200533BFD /* Documents */,
 			);
 			name = Ressources;
@@ -97,13 +104,6 @@
 				B54E2FA71EF97B2500533BFD /* structure json.md */,
 			);
 			path = Documents;
-			sourceTree = "<group>";
-		};
-		B54E2FA61EF97ADE00533BFD /* Images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Images;
 			sourceTree = "<group>";
 		};
 		B54E2FA81EF97BDA00533BFD /* Structures de données */ = {
